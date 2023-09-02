@@ -1,6 +1,6 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
-> My completed Staking App made with the help of following instructions from https://speedrunethereum.com/
+> My completed Token Vendor App made with the help of following instructions from https://speedrunethereum.com/
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
